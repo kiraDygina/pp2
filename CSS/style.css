@@ -1,0 +1,31 @@
+body { background-color: #FFBC73
+;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{border: 10px inset #A65600;
+width:530px;}
+h1{text-align: center;
+font-size: 70px;
+text-decoration: underline;}
+
+p{font-size: 25px;
+color: #226078;
+font-weight: 900;}
+
+a{text-decoration: none;
+border: 7px inset #A65600;
+padding: 10px;
+border-radius: 15px;
+color: white;
+background-color:#006363;}
+
+h2{text-align: center;
+font-size: 50px;
+}
+.img1{margin-left:200px;}
+.img2{margin-left:350px;}
+.img4{margin-left:400px;}
+.img5{margin-left:650px;}
+.img6{margin-left:400px;}
+.img8{border: 23px inset #A65600;
+width:700px;}
